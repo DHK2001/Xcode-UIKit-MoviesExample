@@ -74,7 +74,6 @@ The movie data is fetched from an external API, which returns information such a
 - Movie titles
 - Movie images (`poster_path` and `backdropPath`)
 - Movie summaries (overview)
-- Release dates and status of the movies
 
 ## Conclusion
 
